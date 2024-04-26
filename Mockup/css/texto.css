@@ -1,0 +1,166 @@
+#textomapa{
+	font: 150% sans-serif;
+	font-size:14px;
+}
+#logo1 {
+      margin-left: 90px;
+    }
+    #logomini1{
+      margin-left: 450px;
+      margin-top : -45px;
+    }
+    #logomini2{
+      margin-left: 250px;
+      margin-top : -40px;
+    }
+    #logomini3{
+      margin-left: 250px;
+      margin-top : -44px;
+    }
+    #tienda1{
+      color: #141634;
+      font-family: 'Roboto', fantasy;
+      font-size: 20px;
+      margin-top : -43px;
+      margin-left: 30px;
+    }
+    #panoramas1{
+      color: #141634;
+      font-family: 'Roboto', fantasy;
+      font-size: 20px;
+      margin-top : -47px;
+      margin-left: 30px;
+    }
+    #ubicacion1{
+      color: #141634;
+      font-family: 'Roboto', fantasy;
+      font-size: 20px;
+      margin-top : -44px;
+      margin-left: 30px;
+    }
+	#tienda2{
+      color: #141634;
+      padding-top:820px;
+      font-family: 'Arial';
+      font-size: 19px;
+      font-weight: bold
+    }
+	#panoramas2{
+      color: #141634;
+      font-family: 'Arial';
+      font-size: 19px;
+      font-weight: bold;
+	  margin-top: 60px;
+    }
+	#ubicacion2{
+      color: #141634;
+      font-family: 'Arial';
+      font-size: 19px;
+      font-weight: bold;
+	  margin-top: 30px;
+    }
+#tabla2{
+	margin-left:-970px;
+	font: 150% sans-serif;
+	font-size:14px;
+}
+
+#tabla3{
+margin-left: 900px;
+margin-top: -200px;
+text-align: center;
+font: 150% sans-serif;
+font-size:14px;
+}
+
+#horario {
+	margin-left: -110px;
+	font: 150% sans-serif;
+	font-size:14px;
+}
+
+#horario1 {
+	margin-left:-85px;
+	margin-top: -15px;
+	font: 150% sans-serif;
+	font-size:14px;
+}
+
+#estacionamiento {
+	margin-top: 30px;
+	margin-left: -130px;
+	font: 150% sans-serif;
+	font-size:14px;
+	}
+	
+	#estacionamiento1 {
+	margin-left: 130px;
+	margin-top: -15px;
+	font: 150% sans-serif;
+	font-size:14px;
+	}
+	
+	#estacionamiento2 {
+	margin-left: 80px;
+	margin-top: -15px;
+	font: 150% sans-serif;
+	font-size:14px;
+	}
+	
+	#estacionamiento3 {
+	margin-left: 100px;
+	margin-top: -15px;
+	font: 150% sans-serif;
+	font-size:14px;
+	}
+	
+	
+#tabla4 { 
+margin-left: 1700px;
+margin-top: -220px;
+font: 150% sans-serif;
+font-size:14px;
+}
+
+#mensajito {
+	margin-top: 10px;
+	margin-left: -50px;
+}
+
+#telefono {
+	margin-top: -15px;
+
+}
+
+#bandeja {
+	margin-top: -15px;
+}
+
+#novedades {
+	margin-top: -40px;
+	margin-left: -5px;
+	font: 150% sans-serif;
+	font-size:14px;
+}
+
+#numero {
+	margin-top: -40px;
+	margin-left: -40px;
+		font: 150% sans-serif;
+	font-size:14px;
+}
+
+#mensaje {
+	margin-top: -40px;
+	margin-left: -15px;
+		font: 150% sans-serif;
+	font-size:14px;
+}
+
+#textofinal {
+margin-top: 10px;
+margin-left: 900px;
+font: 150% sans-serif;
+font-size:16px;
+}
+	
